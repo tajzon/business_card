@@ -1,0 +1,52 @@
+body
+{
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.33-LuVSffSyZBYDF3_NVIAHaEK%26pid%3DApi&f=1&ipt=2472ea48e984633563198a97124c30b8d50e6617e094fd5e2532912fc20098af&ipo=images) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+
+.card
+{
+  background-color: black;
+  width: 30vw;
+  height: 30vh;
+  margin: 100px auto ;
+  border-radius: 10%;
+  padding: 5vh;
+  color: white;
+  
+}
+
+.card img
+{
+    width: 15vw;
+    height: 15vw;
+    float: left;
+}
+
+p
+{
+    text-align: center;
+    font-size: x-large
+}
+
+.imie
+{
+    text-align: center;
+    border-bottom: 2px red solid;
+    font-size: xx-large;
+    
+}
+
+.link
+{
+    color: red;
+    text-decoration: none;
+}
+
+.link:hover
+{
+    color: rgb(255, 115, 0);
+}
